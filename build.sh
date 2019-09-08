@@ -1,5 +1,5 @@
 #!/bin/sh
-if [-z $1]
+if [ -z $1 ]
 then
    $1 = chargen
 fi
