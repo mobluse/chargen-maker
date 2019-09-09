@@ -17,12 +17,13 @@ Empty lines, lines with only space characters, and lines starting with # are ski
     ./bin2txt.sh zx81.bin
 
 ## Copyright
-I don't own the copyright of these fonts, but the Sinclair ZX fonts are OK to distribute because Amstrad Ltd has kindly given
-their permission to do so. They are e.g. included in ROMs with the GPL license. The IBM font is public domain, see
-https://github.com/dhepper/font8x8. The CP437 font (also by IBM) is probably public domain and was found on
-https://github.com/emaste/fontstuff/tree/master/syscons-fonts.
+I don't own the copyright of these fonts, but the Sinclair [ZX81](https://en.wikipedia.org/wiki/ZX81_character_set) and
+[ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum_character_set) fonts are OK to distribute because Amstrad Ltd has
+kindly given their permission to do so. They are e.g. included in ROMs with the GPL license. The IBM font is
+public domain, see https://github.com/dhepper/font8x8. The [CP437](https://en.wikipedia.org/wiki/Code_page_437) font (also by
+IBM) is probably public domain and was found on https://github.com/emaste/fontstuff/tree/master/syscons-fonts.
 
-The Commodore 64 PETSCII font is a more tricky case, see
+The Commodore 64 [PETSCII](https://en.wikipedia.org/wiki/PETSCII) font is a more tricky case, see
 http://c65gs.blogspot.com/2015/04/is-c64-font-protected-by-copyright.html. I could remove the PETSCII font in chargen.txt if
 e.g. Cloanto complains. One argument that the PETSCII font might be public domain is that
 [these pictures](https://en.wikipedia.org/wiki/PETSCII#/media/File:C64_Petscii_Charts.png) of it are in public domain and 
