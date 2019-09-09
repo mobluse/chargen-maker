@@ -1,9 +1,9 @@
 # Chargen Maker
-Make a chargen file (character generator ROM) from an 8x8 text file with 512 characters. I.e. you can edit the fonts easily.
+Make a chargen file (character generator ROM) from an 8x8 text file with 512 characters. I.e. you can edit the fonts easily in a text editor e.g. Notepad or Nano.
 
 \ = 0  
 @ = 1  
-Empty lines and lines with only space characters and lines starting with # are skipped.
+Empty lines, lines with only space characters, and lines starting with # are skipped.
 
 ## Examples
     ./build.sh
