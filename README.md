@@ -2,7 +2,8 @@
 Make a chargen file (character generator ROM) from an 8x8 text file with 512 characters. I.e. you can edit the fonts easily.
 
 \ = 0  
-@ = 1
+@ = 1  
+Empty lines and lines with only space characters and lines starting with # are skipped.
 
 ## Examples
 
