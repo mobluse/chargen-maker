@@ -1,5 +1,5 @@
 # Chargen Maker
-Make a chargen file (character generator ROM) from an 8x8 text file with 512 characters.
+Make a chargen file (character generator ROM) from an 8x8 text file with 512 characters. I.e. you can edit the fonts easily.
 
 \ = 0  
 @ = 1
