@@ -15,6 +15,8 @@ Empty lines, lines with only space characters, and lines starting with # are ski
     ./bin2txt.sh
 
     ./bin2txt.sh zx81.bin
+    
+    ./x16emu -bas ../chargen-maker/petscii.bas
 
 ## Copyright
 I don't own the copyright of these fonts, but the Sinclair [ZX81](https://en.wikipedia.org/wiki/ZX81_character_set) and
