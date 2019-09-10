@@ -1,7 +1,7 @@
 # Chargen Maker
 Make a chargen file (character generator ROM) from an 8x8 text file with 512 characters. I.e. you can edit the fonts easily 
-in a text editor e.g. Notepad or Nano. This system is for Linux, but propably works in macOS or Windows 10 with a Ubuntu app
-from Store.
+in a text editor e.g. Notepad or Nano. This system is for Linux, but propably works in macOS or Windows 10 with an Ubuntu app
+from Store. You can use the chargen file in a C64 or [X16 emulator](https://github.com/commanderx16/x16-emulator).
 
 \ = 0  
 @ = 1  
@@ -29,6 +29,7 @@ The Commodore 64 [PETSCII](https://en.wikipedia.org/wiki/PETSCII) font is a more
 http://c65gs.blogspot.com/2015/04/is-c64-font-protected-by-copyright.html. I could remove the PETSCII font in chargen.txt if
 e.g. Cloanto complains. One argument that the PETSCII font might be public domain is that
 [these pictures](https://en.wikipedia.org/wiki/PETSCII#/media/File:C64_Petscii_Charts.png) of it are in public domain and 
-the text file can be reconstructed from the pictures.
+the text file can be reconstructed from the pictures. Here is a [PETSCII Reference](https://style64.org/petscii/) which also
+contains pictures of the font.
 
 The license of this repository is only valid for the code and documentation - not the fonts.
